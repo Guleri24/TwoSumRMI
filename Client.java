@@ -12,7 +12,7 @@ public class Client {
         num2 = getInput("second");
 
         SumInterface sumInterface = (SumInterface) Naming.lookup("SUM");
-        System.out.println(sumInterface.sum(num1, num2));
+        System.out.println("Sum = " + sumInterface.sum(num1, num2));
     }
 
     public static BigDecimal getInput(String seqNum) {
