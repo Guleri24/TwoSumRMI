@@ -1,6 +1,11 @@
 # TwoSumRMI
 Calculates sum of two numbers using Java RMI
 
+
+https://user-images.githubusercontent.com/43719098/163730255-ba3d9375-c20b-480a-bc20-1f1a9a87e808.mp4
+
+
+
 ## Project setup
 * JDK 18
 * Access to terminal
